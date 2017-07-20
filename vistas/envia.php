@@ -22,7 +22,8 @@ $mail->From = $correo;
 $mail->FromName = $nombre;
 
 //To address and name
-$mail->addAddress("info@lomram.com");
+// $mail->addAddress("info@lomram.com");
+$mail->addAddress("ballina.santiago@gmail.com");
 
 
 $mail->isHTML(true);

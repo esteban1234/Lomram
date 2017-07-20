@@ -1,0 +1,359 @@
+@media screen and (max-width: 480px){
+
+  .menu{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    display: none;
+  }
+
+  .menu ul a{
+    border-top: .5px solid rgba(0,0,0,0.4);
+    display: block;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+  }
+
+  .logo{
+    width: 40%;
+    float: none !important;
+    margin: auto;
+  }
+
+  .OP-MENU{
+    text-align: center;
+    padding-bottom: 10px;
+    display: block;
+  }
+
+  .OP-MENU > i{
+    cursor: pointer;
+  }
+
+  .banner{
+    height: 100%;
+    padding-bottom: 25px;
+  }
+
+  .banner p{
+    width: 100%;
+    font-size: 23px;
+    padding: 15px;
+  }
+
+  br{
+    display: none;
+  }
+
+  .new-diseno{
+    margin-bottom: 10px;
+  }
+
+  .new-diseno h1, .new-tamanotexto{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .new-diseno h4{
+    font-size: 16px;
+    text-align: justify;
+    padding: 10px 0px;
+  }
+
+  .new-diseno p{
+    text-align: justify;
+  }
+
+  .diseno-op{
+    height: 100%;
+    margin-top: 10px;
+  }
+
+  .diseno-op > i{
+    padding: 10px;
+    font-size: 25px;
+  }
+
+  .diseno-op p{
+    text-align: justify;
+    width: 100%;
+  }
+
+  .new-tamtexto{
+    font-size: 20px;
+  }
+
+
+  ::placeholder {
+    color: rgba(0,0,0,0.4) !important;
+    font-size: 12px;
+  }
+
+  .espacio-top{
+    margin-top: 40px;
+  }
+
+  .espacio-top p{
+    text-align: center;
+  }
+
+  footer p{
+    width: 100%;
+    font-size: 16px;
+    padding: 5px;
+  }
+
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+  .menu{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    display: none;
+  }
+
+  .menu ul a{
+    border-top: .5px solid rgba(0,0,0,0.4);
+    display: block;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+  }
+
+  .logo{
+    width: 40%;
+    float: none !important;
+    margin: auto;
+  }
+
+  .OP-MENU{
+    text-align: center;
+    padding-bottom: 10px;
+    display: block;
+  }
+
+  .OP-MENU > i{
+    cursor: pointer;
+  }
+
+  .banner{
+    height: 100%;
+    padding-bottom: 25px;
+  }
+
+  .banner p{
+    width: 100%;
+    font-size: 23px;
+    padding: 15px;
+  }
+
+  br{
+    display: none;
+  }
+
+  .new-diseno{
+    margin-bottom: 10px;
+  }
+
+  .new-diseno h1, .new-tamanotexto{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .new-diseno h4{
+    font-size: 16px;
+    text-align: center;
+    padding: 10px 0px;
+  }
+
+  .new-diseno p{
+    text-align: justify;
+  }
+
+  .diseno-op{
+    height: 100%;
+    margin-top: 10px;
+  }
+
+  .diseno-op > i{
+    padding: 10px;
+    font-size: 25px;
+  }
+
+  .diseno-op p{
+    text-align: justify;
+    width: 100%;
+  }
+
+  .new-tamtexto{
+    font-size: 20px;
+  }
+
+
+  ::placeholder {
+    color: rgba(0,0,0,0.4) !important;
+    font-size: 12px;
+  }
+
+  .espacio-top{
+    margin-top: 40px;
+  }
+
+  .espacio-top p{
+    text-align: center;
+  }
+
+  footer p{
+    width: 100%;
+    font-size: 16px;
+    padding: 5px;
+  }
+
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+  .menu{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    display: none;
+  }
+
+  .menu ul a{
+    border-top: .5px solid rgba(0,0,0,0.4);
+    display: block;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+  }
+
+  .logo{
+    width: 40%;
+    float: none !important;
+    margin: auto;
+  }
+
+  .OP-MENU{
+    text-align: center;
+    padding-bottom: 10px;
+    display: block;
+  }
+
+  .OP-MENU > i{
+    cursor: pointer;
+  }
+
+  .banner{
+    height: 100%;
+    padding-bottom: 25px;
+  }
+
+  .banner p{
+    width: 100%;
+    font-size: 23px;
+    padding: 15px;
+  }
+
+  br{
+    display: none;
+  }
+
+  .new-diseno{
+    margin-bottom: 10px;
+  }
+
+  .new-diseno h1, .new-tamanotexto{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .new-diseno h4{
+    font-size: 16px;
+    text-align: center;
+    padding: 10px 0px;
+  }
+
+  .new-diseno p{
+    text-align: justify;
+  }
+
+  .diseno-op{
+    height: 100%;
+    margin-top: 10px;
+  }
+
+  .diseno-op p{
+    text-align: justify;
+    width: 100%;
+  }
+
+  .espacio-top{
+    margin-top: 40px;
+  }
+
+  .espacio-top p{
+    text-align: center;
+  }
+
+
+  .centrar-img img{
+    margin: auto;
+  }
+
+
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {
+
+  .menu{
+    margin: 20px 0px;
+  }
+
+  .new-diseno{
+    margin-bottom: 10px;
+  }
+
+  .new-diseno h1, .new-tamanotexto{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .new-diseno h4{
+    font-size: 16px;
+    text-align: center;
+    padding: 10px 0px;
+  }
+
+  .new-diseno p{
+    text-align: justify;
+  }
+
+  .espacio-top{
+    margin-top: 40px;
+  }
+
+  .espacio-top p{
+    text-align: center;
+  }
+
+  .espacio-top p > br{
+    display: none;
+  }
+
+  .centrar-img img{
+    margin: auto;
+  }
+
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }

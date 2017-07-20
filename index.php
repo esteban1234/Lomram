@@ -15,6 +15,9 @@
       <figure class="logo pull-right">
         <img src="img/lomram.png" class="img-responsive" alt="">
       </figure>
+      <div class="OP-MENU">
+        <i class="fa fa-bars fa-2x" aria-hidden="true"></i>
+      </div>
     </div>
 
     <p>BOTANAS Y ADEREZOS QUE SE ANTOJAN</p>
@@ -28,7 +31,7 @@
     <div class="section">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
+          <div class="col-md-6 new-diseno">
             <h1 style="color: #4D2448;">La empresa</h1>
             <h4 style="color: #4D2448;">GRUPO MANUFACTURERO LOMRAM S.A. DE C.V.</h4> <br>
             <p style="font-family: 'Montserrat', sans-serif;">Somos una empresa orgullosamente Mexicana, con años en el mercado de las botanas. <br><br>
@@ -37,7 +40,7 @@
 
             Hemos acompañado festejos, eventos familiares, reuniones de trabajo, y hemos estado cerca de ti disfrutando de todos esos momentos especiales que le dan sabor a la vida.</p>
           </div>
-          <div class="col-md-6">
+          <div class="col-xs-12 col-sm-12 col-md-6 centrar-img">
             <img src="img/totopos.jpg" class="img-responsive img-rounded">
           </div>
         </div>
@@ -47,19 +50,19 @@
 
   <div class="container" id="features">
   <div class="row">
-    <div class="col-md-4 feature">
+    <div class="col-md-4 feature diseno-op">
           <i class="fa fa-check" aria-hidden="true"></i>
             <h3>MISION</h3>
             <div class="title_border"></div>
             <p>Proveer con responsabilidad y excelencia, botanas y frituras, como papas fritas, chicharrones de harina y de cerdo, tostadas, cacahuates, semillas fritas, palomitas de maíz, etc. utilizando la materia prima e insumos de calidad y así garantizar el exquisito sabor de nuestros productos a nuestros consumidores.</p>
     </div>
-        <div class="col-md-4 feature">
+        <div class="col-md-4 feature diseno-op">
             <i class="fa fa-line-chart" aria-hidden="true"></i>
             <h3>VISION</h3>
             <div class="title_border"></div>
             <p>Ser una empresa líder en los mercados de productos alimenticios especialmente en botanas, cumpliendo con los estándares de higiene, calidad y servicio requeridos por nuestros clientes, desarrollando tecnología que asegure la mejora continua y el crecimiento en nuevos productos.</p>
     </div>
-        <div class="col-md-4 feature">
+        <div class="col-md-4 feature diseno-op">
             <i class="fa fa-users" aria-hidden="true"></i>
             <h3>VALORES</h3>
             <div class="title_border"></div>
@@ -79,12 +82,11 @@
 <section class="productos" id="productos">
 <div class="section">
       <div class="container">
-      <h1 style="color: #4D2448; text-align: center;font-family: 'Montserrat', sans-serif;">PRODUCTOS</h1> <br><br>
+      <h1 class="new-tamanotexto" style="color: #4D2448; text-align: center;font-family: 'Montserrat', sans-serif;">PRODUCTOS</h1> <br><br>
         <div class="row">
           <div class="col-md-3">
-            <img class="imagen" src="img/charrito.jpg"
-            class="img-responsive img-rounded">
-            <h2 class="text-center" style="color: #1177BC;">CHARRITOS</h2>
+            <img class="imagen" src="img/charrito.jpg" class="img-responsive img-rounded">
+            <h2 class="text-center new-tamtexto" style="color: #1177BC;">CHARRITOS</h2>
             <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
               <br>Ut enim ad minim veniam, quis nostrud</p> -->
@@ -92,7 +94,7 @@
           <div class="col-md-3">
             <img class="imagen" src="img/tostadas.jpg"
             class="img-responsive img-rounded">
-            <h2 class="text-center" style="color: #1177BC;">TOSTADAS </h2>
+            <h2 class="text-center new-tamtexto" style="color: #1177BC;">TOSTADAS </h2>
             <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
               <br>Ut enim ad minim veniam, quis nostrud</p> -->
@@ -100,7 +102,7 @@
           <div class="col-md-3">
             <img class="imagen" src="img/totopos.jpg"
             class="img-responsive img-rounded">
-            <h2 class="text-center" style="color: #1177BC;">TOTOPOS</h2>
+            <h2 class="text-center new-tamtexto" style="color: #1177BC;">TOTOPOS</h2>
             <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
               <br>Ut enim ad minim veniam, quis nostrud</p> -->
@@ -108,19 +110,19 @@
           <div class="col-md-3">
             <img class="imagen" src="img/churro.jpg"
             class="img-responsive img-rounded">
-            <h2 class="text-center" style="color: #1177BC;">Churro natural</h2>
+            <h2 class="text-center new-tamtexto" style="color: #1177BC;">Churro natural</h2>
             <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
               <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
         </div>
-        
+
         <br><br>
         <div class="row">
           <div class="col-md-3">
             <img class="imagen" src="img/chicha.jpg"
             class="img-responsive img-rounded">
-            <h2 class="text-center" style="color: #1177BC;">Chicharrón enchilado</h2>
+            <h2 class="text-center new-tamtexto" style="color: #1177BC;">Chicharrón enchilado</h2>
             <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
               <br>Ut enim ad minim veniam, quis nostrud</p> -->
@@ -129,16 +131,16 @@
           <div class="col-md-3">
             <img class="imagen" src="img/caca2.jpg"
             class="img-responsive img-rounded">
-            <h2 class="text-center" style="color: #1177BC;">Cacahuates salados</h2>
+            <h2 class="text-center new-tamtexto" style="color: #1177BC;">Cacahuates salados</h2>
             <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
               <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
-          
+
           <div class="col-md-3">
             <img class="imagen" src="img/caca.jpg"
             class="img-responsive img-rounded">
-            <h2 class="text-center" style="color: #1177BC;">Cacahuates enchilado</h2>
+            <h2 class="text-center new-tamtexto" style="color: #1177BC;">Cacahuates enchilado</h2>
             <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
               <br>Ut enim ad minim veniam, quis nostrud</p> -->
@@ -146,7 +148,7 @@
           <div class="col-md-3">
             <img class="imagen" src="img/aderezo.jpg"
             class="img-responsive img-rounded">
-            <h2 class="text-center" style="color: #1177BC;">Aderezo César Vegano</h2>
+            <h2 class="text-center new-tamtexto" style="color: #1177BC;">Aderezo César Vegano</h2>
             <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
               <br>Ut enim ad minim veniam, quis nostrud</p> -->
@@ -169,37 +171,38 @@
                 </div>
                 <div class="row">
                     <div class="col-md-8">
-                        <form name="sentMessage" id="contactForm" novalidate="">
+                        <form name="sentMessage" id="contactForm" novalidate="" onSubmit="return false">
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" placeholder="Escribe tu Nombre Completo" id="name" required="" data-validation-required-message="Escribe tu Nombre Completo">
+                                        <input type="text" class="form-control" placeholder="Escribe tu Nombre Completo" id="txtNOMBRE" data-validation-required-message="Escribe tu Nombre Completo">
                                         <p class="help-block text-danger"></p>
                                     </div>
                                     <div class="form-group">
-                                        <input type="email" class="form-control" placeholder="Escribe tu Correo Completo" id="email" required="" data-validation-required-message="Escribe tu Correo Completo">
+                                        <input type="email" class="form-control" placeholder="Escribe tu Correo Completo" id="txtCORREO"  data-validation-required-message="Escribe tu Correo Completo">
                                         <p class="help-block text-danger"></p>
                                     </div>
                                     <div class="form-group">
-                                        <input type="tel" class="form-control" placeholder="Escribe tu Teléfono Completo" id="phone" required="" data-validation-required-message="Escribe tu Teléfono Completo">
+                                        <input type="tel" class="form-control" placeholder="Escribe tu Teléfono Completo" id="txtTELEFONO"  data-validation-required-message="Escribe tu Teléfono Completo">
                                         <p class="help-block text-danger"></p>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-group">
-                                        <textarea class="form-control" placeholder="Escribe tu Mensaje" id="message" required="" data-validation-required-message="Escribe tu Mensaje"></textarea>
+                                        <textarea class="form-control" placeholder="Escribe tu Mensaje" id="txtCOMENTARIO"  data-validation-required-message="Escribe tu Mensaje"></textarea>
                                         <p class="help-block text-danger"></p>
                                     </div>
                                 </div>
                                 <div class="clearfix"></div>
                                 <div class="col-lg-12 text-center">
                                     <div id="success"></div>
-                                    <button type="submit" class="btn btn-success btn-xl get">ENVIAR</button>
+                                    <div id="_AJAX_PRE_"></div>
+                                    <button type="submit" class="btn btn-success btn-xl get" onclick="sendCORREO()">ENVIAR</button>
                                 </div>
                             </div>
                         </form>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 espacio-top">
                         <p style="color:#fff;">
                             <strong><i class="fa fa-map-marker"></i> Dirección</strong><br>
                             CALLE 94 # 571  ENTRE 11-A-2 Y 81-F COL. RESIDENCIAL PENSIONES C.P. 97127 MÉRIDA, YUCATÁN.
