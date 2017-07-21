@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	
+	<meta name="google-site-verification" content="y3y9fU6qRzNbg9Zr5IJHxti0pP2WE77cjROkzEiVcl0" />
 	<link rel="icon" type="image/png" href="../img/favicon.png" />
 	<title>LOMRAM</title>
 	 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
